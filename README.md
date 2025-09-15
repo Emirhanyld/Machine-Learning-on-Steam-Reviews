@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Emirhanyld/Machine-Learning-on-Steam-Reviews/blob/main/ml_steam_reviews.ipynb)
+
 # Steam Reviews Sentiment Analysis
 
 This project applies **machine learning models** to predict whether Steam game reviews are **recommended or not recommended**.
